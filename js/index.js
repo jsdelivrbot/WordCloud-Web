@@ -1,4 +1,4 @@
-alert("test")
+alert(getSelectionText());
 
 function getSelectionText() {
     var text = "";
